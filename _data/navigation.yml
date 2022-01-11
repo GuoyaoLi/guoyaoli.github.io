@@ -2,12 +2,12 @@
 main:
   - title: "CV"
     url: /cv/
-    
+
   - title: "Publications"
     url: /publications/   
 
   - title: "Experience"
-    url: /teaching/    
+    url: /experience/    
     
   - title: "Portfolio"
     url: /portfolio/
